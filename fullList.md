@@ -8,6 +8,6 @@ Following is the list of all the One-Percent:
 - [ ] February 08, 2020 ; SMAFB ; iPhone ; 15,000 x 1.2% =>  **180**
 - [ ] March 01, 2020 ; SZ ; Bike ; 50,000 x 0.8% =>  **400**
 - [ ] June 12, 2020 ; SHA ; HeadPhones ; 1700 x 1.2% =>  20.4 ≈ **20**
-
+- [ ] August 14, 2020 ; SMAFB ; Mobile _(Redmi 9)_ ; 26,500 x 0.8% => 212 ≈ **210** 
 
 
